@@ -11,6 +11,7 @@ const Skills = () => {
         <Bar skill={"RHINO"} porcent={60} />
         <Bar skill={"AUTOCAD"} porcent={60} />
         <Bar skill={"LAYOUT"} porcent={75} />
+        <Bar skill={"PHOTOSHOP"} porcent={60} />
       </div>
       <div className="skills-title">
         <h2>Mis habilidades</h2>
